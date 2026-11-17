@@ -1,16 +1,55 @@
-## Hi there 👋
+# Diaz Medina, Lúa
 
-<!--
-**3xodiia/3xodiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Development Student · Aspiring Product Designer**
 
-Here are some ideas to get you started:
+Building digital experiences through code, design, and curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 01 — Profile
+
+I'm a Software Development student with a growing interest in Product Design, user interfaces, and the engineering behind digital experiences.
+
+I enjoy exploring the intersection between technology and design, understanding how things work, and turning ideas into functional solutions.
+
+Currently developing my skills in software development while exploring new approaches to interface design and system architecture.
+
+### 02 — Currently Learning
+
+- C# and .NET
+- SQL Server and Database Administration
+- Software Design and Development
+- UI/UX and Product Design
+- Rust and Assembly
+
+### 03 — Technologies & Tools
+
+| Category | Technologies |
+|:--|:--|
+| Languages | C#, SQL, Rust, Assembly |
+| Frameworks | .NET Framework, Windows Forms |
+| Design | Figma, Photoshop |
+| Development | Visual Studio, VS Code |
+| Database | Microsoft SQL Server |
+| Version Control | Git, GitHub |
+
+### 04 — Selected Projects
+
+**Orion**
+> An experimental operating system project exploring low-level programming, kernel development, and system architecture.
+
+**More projects coming soon.**
+
+### 05 — Areas of Interest
+
+- Product Design & UX Engineering
+- Interface and Interaction Design
+- Operating Systems & System Architecture
+- Software Engineering
+- Human–Computer Interaction
+
+---
+
+<sub>Always learning. Always building. Always exploring.</sub>
+
+<sub>Argentina · 2026</sub>
